@@ -1,0 +1,22 @@
+.aboutMe-image {
+    background-image: url("assets/images/aboutMepic.jpeg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.autismAwareness-image {
+    height: 400px;
+    background: url("assets/images/autismAwareness.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 30%; 
+    background-size: cover;
+}
+
+.autismMessage-image {
+    height: 500px;
+    background: url("assets/images/.autismMessage.jpeg");
+    background-repeat: no-repeat;
+}

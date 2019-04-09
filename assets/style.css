@@ -1,0 +1,22 @@
+.fruit-image {
+    background-image: url("../images/fruit.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panda-image {
+    height: 400px;
+    background: url("../images/panda.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 30%; 
+    background-size: cover;
+}
+
+.cupcake-image {
+    height: 500px;
+    background: url("../images/cupcake.jpg");
+    background-repeat: no-repeat;
+}
